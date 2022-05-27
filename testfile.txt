@@ -2,3 +2,6 @@ this is the text file
 this is the text file 
 this is the text file 
 new line add to the text file
+
+
+this time using fetch command
