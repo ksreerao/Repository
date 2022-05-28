@@ -7,3 +7,6 @@ new line add to the text file
 this time using fetch command
 
 this time using git mergetool command
+
+thsi time using mergetool ....
+
