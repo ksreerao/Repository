@@ -8,5 +8,5 @@ this time using fetch command
 
 this time using git mergetool command
 
-thsi time using mergetool ....
+this time using mergetool ....
 
